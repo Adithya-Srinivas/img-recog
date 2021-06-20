@@ -1,0 +1,5 @@
+.background {
+background-color: #f7e6f4;
+opacity: 0.7;
+background: repeating-linear-gradient(-45deg, #444cf7, #444cf7 5px, #f7e6f4 5px, #f7e6f4 25px);
+}

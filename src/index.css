@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@300&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'BioRhyme', serif;
+  font-size: 48px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, #ba5370, #f4e2d8);
+}
+
+code {
+  font-family: 'FTP-Buke', Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
